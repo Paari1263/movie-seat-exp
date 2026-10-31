@@ -8,8 +8,7 @@ Picking a seat on a flat cinema map never tells you what the view will actually 
 
 ## Preview
 
-- Local: http://localhost:5173 (after running `npm run dev`, see [docs/app-startup.md](docs/app-startup.md))
-- Hosted link: _not published yet_
+- Try out now on: [3D Cinema Seat Exp](https://movie-seat-exp.vercel.app/)
 
 Open it in Chrome or Safari.
 
